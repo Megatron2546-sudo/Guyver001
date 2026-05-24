@@ -1,0 +1,7 @@
+messages: []
+model: openai/gpt-4o
+modelParameters:
+  max_tokens: 4096
+  temperature: 0
+  top_p: 0.01
+responseFormat: json_schema
